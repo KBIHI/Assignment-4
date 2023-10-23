@@ -1,10 +1,31 @@
-# Assignment-4
-Testing 
 
-This is a read me for the test I'm doing to learn how to us git :)
+# Team Requirement Checkers! 🌟
+---
+## Group Members:
+- **Alex** *(Coventry/Northampton)*  
+  Background: Special Ed Teacher  
+  Interest: Audio Books and Ice-Skating! ❣️
 
-I am adding these changes from my machine !
+- **Ayan** *(Bristol)*  
+  Background: MIS and Engagement Officer  
+  Interest: Reading and baking 😊
 
-well?
+- **Khadija** *(London)*  
+  Background: Secondary school science teacher  
+  Interest: Data engineering 📊
 
-add
+- **Shanti** *(Bristol)*  
+  Background: Artist  
+  Interest: Brazilian Jiu Jitsu and running up mountains 🏔️
+
+- **Venus** *(Nottingham)*  
+  Background: Research Chemist  
+  Interest: Watching movies 📺 
+
+---
+## Our GitHub Repository Link:
+[Check out our work on GitHub](#) 🚀
+
+
+
+<img src="https://www.vrogue.co/top-featureds-content.techgig.com/photo/77980362/guide-how-to-develop-and-sell-python-api.jpg?49072" alt="Alt Text" width="250" height="150">
